@@ -1,0 +1,41 @@
+
+img { width : 400px
+   ;
+    height :  300px ;
+    
+}
+.what {color:blue;}
+.how {color: purple;}
+.why {color : red;}
+
+.what{ border :10px solid purple;
+    padding :10px;
+}
+
+.why{ border :10px solid blue;
+    padding: 10px ;
+    margin : 10px ;
+}
+.how{ border :10px solid red;
+    padding: 10px ;
+    margin : 10px ;
+}
+
+ body { background-color : pink;
+}
+.title { color : 
+#07c1f5 ;
+    border :10px solid yellow;
+    padding: 10px ;
+    margin : 10px ;
+}
+.picture {
+  display: flex;
+  justify-content: center;
+
+}
+img { border :10px solid #0cd6f5;
+    padding: 10px ;
+    margin : 10px ;
+}
+    
